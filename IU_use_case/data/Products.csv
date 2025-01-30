@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,ReplenishmentThreshold
+1,Product 1,Bakery,13
+2,Product 2,Beverage,11
+3,Product 3,Beverage,12
+4,Product 4,Dairy,34
+5,Product 5,Dairy,21
+6,Product 6,Beverage,31
+7,Product 7,Bakery,47
+8,Product 8,Bakery,19
+9,Product 9,Bakery,35
+10,Product 10,Dairy,17
+11,Product 11,Bakery,31
+12,Product 12,Dairy,14
+13,Product 13,Beverage,40
+14,Product 14,Beverage,50
+15,Product 15,Dairy,29
+16,Product 16,Beverage,17
+17,Product 17,Beverage,14
+18,Product 18,Bakery,12
+19,Product 19,Dairy,14
+20,Product 20,Beverage,2
